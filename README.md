@@ -1,11 +1,11 @@
-# Chuckyfix
+#GhovinBot
 BOT PROTECT CREATOR & ADMIN & 5 BOT + 1 GHOST.
 ------
 GET TOKEN :
 ------
 - `Bot Alphat : https://github.com/Nadyatjia/AlphatTJ`
 -
-Cara Install Bot Chucky :
+Cara Install Bot Ghovin :
 ------
 Di C9 :
 - Ketik -> `sudo apt-get update`
@@ -47,7 +47,7 @@ Di Termux :
 - Ketik -> `python2 Chucky.py`
 
 
-Credit By@ Nadya Sutjiadi.
+Credit By@ Nadya Sutjiadi/Ghovin
 ------
 - `Follow My Instagram : nadya.tjia`
 - `Add My ID LINE : nad_nad. (pake titik)`
